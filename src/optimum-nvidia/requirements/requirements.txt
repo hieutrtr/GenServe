@@ -1,0 +1,6 @@
+datasets
+huggingface_hub
+hf-transfer
+transformers
+pynvml
+pytest

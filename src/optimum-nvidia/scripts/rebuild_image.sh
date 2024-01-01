@@ -1,0 +1,1 @@
+docker build -t optimum-tritonserver:latest -f docker/Dockerfile.tritonserver .
